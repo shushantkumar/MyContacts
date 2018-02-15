@@ -1,4 +1,4 @@
-package com.praveengupta.mycontacts;
+package com.shushantkumar.mycontacts;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -26,7 +26,7 @@ public class AddContact extends AppCompatActivity {
     ImageView img;
     Button add;
     DatabaseHandler databaseHandler;
-    Uri imageUri = Uri.parse("android.resource://com.praveengupta.mycontacts/drawable/defaultuser.png");
+    Uri imageUri = Uri.parse("android.resource://com.shushantkumar.mycontacts/drawable/defaultuser.png");
     
 
     @Override

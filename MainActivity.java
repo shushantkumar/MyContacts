@@ -1,4 +1,4 @@
-package com.praveengupta.mycontacts;
+package com.shushantkumar.mycontacts;
 
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     EditText txtSearch;
     String TAG = "hey";
     Intent intent;
-    // Uri imageUri = Uri.parse("android.resource://com.praveengupta.mycontacts/drawable/defaultuser.png");
+    // Uri imageUri = Uri.parse("android.resource://com.shushantkumar.mycontacts/drawable/defaultuser.png");
     DatabaseHandler databaseHandler;
     int longClickedItemIndex;
     ArrayAdapter<Contact> contactAdapter;

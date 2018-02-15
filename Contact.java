@@ -1,4 +1,4 @@
-package com.praveengupta.mycontacts;
+package com.shushantkumar.mycontacts;
 
 
 import android.net.Uri;

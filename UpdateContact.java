@@ -1,4 +1,4 @@
-package com.praveengupta.mycontacts;
+package com.shushantkumar.mycontacts;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -27,7 +27,7 @@ public class UpdateContact extends AppCompatActivity {
     DatabaseHandler databaseHandler;
     EditText txtName, txtMob, txtMail, txtAddress;
     ImageView img;
-    Uri imageUri = Uri.parse("android.resource://com.praveengupta.mycontacts/drawable/defaultuser.png");
+    Uri imageUri = Uri.parse("android.resource://com.shushantkumar.mycontacts/drawable/defaultuser.png");
     Button update;
 
 
